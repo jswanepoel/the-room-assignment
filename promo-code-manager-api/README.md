@@ -17,7 +17,7 @@ The dependencies of this project are managed with npm (see installation guide [h
 - Clone this project to any folder on your local machine
 
 ```bash
-git clone https://github.com/temilaj/react-webpack-starter.git <FOLDER_NAME_HERE>
+git clone https://github.com/jswanepoel/the-room-assignment.git <FOLDER_NAME_HERE>
 ```
 
 - Navigate into the folder name specified
