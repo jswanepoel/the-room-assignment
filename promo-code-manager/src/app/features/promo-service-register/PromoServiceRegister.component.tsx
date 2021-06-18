@@ -121,7 +121,7 @@ class PromoServiceRegister extends React.Component<PromoServiceRegisterProps, Pr
             return {
                 promoServices: [...state.promoServices, ...promoServicePage.promoServices],
                 promoServiceMeta: state.promoServiceMeta || promoServicePage.promoServiceMeta,
-                hasMore: !(state.promoServiceMeta?.totalItems !== state.promoServices.length)
+                hasMore: true //!(state.promoServiceMeta?.totalItems !== state.promoServices.length)
             }
         });
     }
