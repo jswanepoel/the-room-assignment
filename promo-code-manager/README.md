@@ -13,6 +13,31 @@ Promo Code Manager
 
 A react web application to manage promo code for a signup user.
 
+## `Screenshots`
+### `SignIn`
+![image](https://user-images.githubusercontent.com/7260965/122624629-66ec3400-d0a1-11eb-9ea5-6ec273bf35cb.png)
+
+### `SignUp`
+![image](https://user-images.githubusercontent.com/7260965/122624655-9438e200-d0a1-11eb-97bd-6b2c0d47c33a.png)
+
+## `Promo Service Search`
+![image](https://user-images.githubusercontent.com/7260965/122624727-dd893180-d0a1-11eb-8e0e-2460691f311d.png)
+
+## `Filter`
+![image](https://user-images.githubusercontent.com/7260965/122624851-6c964980-d0a2-11eb-93af-44b3cdd4db21.png)
+
+## `Activate Bonus`
+```
+To be activated
+```
+![image](https://user-images.githubusercontent.com/7260965/122624905-a0716f00-d0a2-11eb-8715-c04abcf1553c.png)
+
+```
+Bonus Activated
+```
+![image](https://user-images.githubusercontent.com/7260965/122624980-183f9980-d0a3-11eb-8efe-639ad25b8fc0.png)
+
+
 ## Requirements
 
 To run this project, you’ll need to install [Node.js 14.17.1 LTS or the Latest version 16.3.0](https://nodejs.org/en/). The latest version of Node.js is recommended.
