@@ -28,7 +28,7 @@ A react web application to manage promo code for a signup user.
 
 ## `Activate Bonus`
 ```
-To be activated
+Bonus not Activated
 ```
 ![image](https://user-images.githubusercontent.com/7260965/122624905-a0716f00-d0a2-11eb-8715-c04abcf1553c.png)
 
@@ -37,6 +37,13 @@ Bonus Activated
 ```
 ![image](https://user-images.githubusercontent.com/7260965/122624980-183f9980-d0a3-11eb-8efe-639ad25b8fc0.png)
 
+```
+Copy Promo Code
+```
+![image](https://user-images.githubusercontent.com/7260965/122625083-9308b480-d0a3-11eb-866f-4715b34a5a9c.png)
+```
+Copied Promo Code: promo-UiCCeSTe-2021
+```
 
 ## Requirements
 
